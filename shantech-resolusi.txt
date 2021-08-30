@@ -1,0 +1,6 @@
+ShanTech Resolusi
+- Front End
+  - Belajar Git & Github
+  - Mendalami HTML
+  - Mendalami CSS
+  - Mendalami Javascript
