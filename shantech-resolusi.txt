@@ -5,5 +5,4 @@ ShanTech Resolusi
   - Mendalami CSS
   - Mendalami Javascript
   - Coding with VS code
-- Buat merch shop
-- Buat Tutorial
+- Buat Tutorial web programming
