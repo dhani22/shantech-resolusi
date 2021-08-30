@@ -4,3 +4,4 @@ ShanTech Resolusi
   - Mendalami HTML
   - Mendalami CSS
   - Mendalami Javascript
+  - Coding with VS code
