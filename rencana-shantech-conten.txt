@@ -1,5 +1,7 @@
 Rencana Content shantech
 
 - Javascript
+  fundamental
+  medium
 - css
 - html
