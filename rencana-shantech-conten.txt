@@ -3,10 +3,7 @@ Rencana Content shantech
 - Javascript
   fundamental
   medium
-  * Vue
-  * react
 - Fundamental Data structur
 - css
-  * Fundamental
 - html
-- Python
+
