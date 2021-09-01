@@ -3,5 +3,6 @@ Rencana Content shantech
 - Javascript
   fundamental
   medium
+- Fundamental Data structur
 - css
 - html
