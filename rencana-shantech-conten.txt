@@ -4,6 +4,7 @@ Rencana Content shantech
   fundamental
   medium
   * Vue
+  * react
 - Fundamental Data structur
 - css
   * Fundamental
