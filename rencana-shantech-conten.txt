@@ -3,6 +3,9 @@ Rencana Content shantech
 - Javascript
   fundamental
   medium
+- Framework Javascript
+  - vue
+  - react
 - Fundamental Data structur
 - css
 - html
